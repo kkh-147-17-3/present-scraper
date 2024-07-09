@@ -1,0 +1,87 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "category": {
+        "category_name": "컬처",
+        "category_code": 265100100,
+        "category2": [
+          {
+            "category_name": "숙박, 여행",
+            "category_code": 265112100,
+            "category3": [
+              {
+                "category_name": "숙박",
+                "category_code": 265112102,
+                "count": 152
+              },
+              {
+                "category_name": "여행",
+                "category_code": 265112101,
+                "count": 16
+              },
+              {
+                "category_name": "액티비티",
+                "category_code": 265112103,
+                "count": 30
+              }
+            ],
+            "count": 198
+          },
+          {
+            "category_name": "티켓",
+            "category_code": 265101100,
+            "category3": [
+              {
+                "category_name": "전시, 행사",
+                "category_code": 265101101,
+                "count": 725
+              },
+              {
+                "category_name": "클래스, 멤버십, 이용권",
+                "category_code": 265101102,
+                "count": 190
+              }
+            ],
+            "count": 956
+          },
+          {
+            "category_name": "아트, 디자인",
+            "category_code": 265102100,
+            "category3": [
+              {
+                "category_name": "아트프린트",
+                "category_code": 265102107,
+                "count": 4225
+              },
+              {
+                "category_name": "오리지널, 에디션",
+                "category_code": 265102108,
+                "count": 1294
+              },
+              {
+                "category_name": "오브제, 공예품",
+                "category_code": 265102109,
+                "count": 863
+              },
+              {
+                "category_name": "굿즈",
+                "category_code": 265102110,
+                "count": 8579
+              },
+              {
+                "category_name": "예술, 디자인 서적",
+                "category_code": 265102111,
+                "count": 418
+              }
+            ],
+            "count": 19887
+          }
+        ],
+        "count": 42791
+      }
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "category_group_no": 1,
+  "category_list": [
+    {
+      "category_code": 268100100,
+      "category_name": "의류",
+      "raw_category_name": "여성의류",
+      "medium_category_list": [
+        {
+          "category_name": "EXCLUSIVE",
+          "category_code": 268116100,
+          "raw_category_name": "EXCLUSIVE"
+        },
+        {
+          "category_name": "상의",
+          "category_code": 268103100,
+          "raw_category_name": "상의"
+        },
+        {
+          "category_name": "바지",
+          "category_code": 268106100,
+          "raw_category_name": "바지"
+        },
+        {
+          "category_name": "원피스",
+          "category_code": 268104100,
+          "raw_category_name": "원피스"
+        },
+        {
+          "category_name": "스커트",
+          "category_code": 268107100,
+          "raw_category_name": "스커트"
+        },
+        {
+          "category_name": "점프수트",
+          "category_code": 268115100,
+          "raw_category_name": "점프수트"
+        },
+        {
+          "category_name": "셋업",
+          "category_code": 268117100,
+          "raw_category_name": "셋업"
+        },
+        {
+          "category_name": "액티브웨어",
+          "category_code": 268108100,
+          "raw_category_name": "액티브웨어"
+        },
+        {
+          "category_name": "아우터",
+          "category_code": 268102100,
+          "raw_category_name": "아우터"
+        },
+        {
+          "category_name": "니트웨어",
+          "category_code": 268105100,
+          "raw_category_name": "니트웨어"
+        },
+        {
+          "category_name": "이너웨어",
+          "category_code": 268109100,
+          "raw_category_name": "이너웨어"
+        },
+        {
+          "category_name": "홈웨어",
+          "category_code": 268110100,
+          "raw_category_name": "홈웨어"
+        },
+        {
+          "category_name": "해외브랜드",
+          "category_code": 268114100,
+          "raw_category_name": "해외브랜드"
+        }
+      ]
+    },
+    {
+      "category_code": 269100100,
+      "category_name": "가방",
+      "raw_category_name": "여성가방",
+      "medium_category_list": [
+        {
+          "category_name": "EXCLUSIVE",
+          "category_code": 269115100,
+          "raw_category_name": "EXCLUSIVE"
+        },
+        {
+          "category_name": "숄더백",
+          "category_code": 269101100,
+          "raw_category_name": "숄더백"
+        },
+        {
+          "category_name": "토트백",
+          "category_code": 269103100,
+          "raw_category_name": "토트백"
+        },
+        {
+          "category_name": "크로스백",
+          "category_code": 269102100,
+          "raw_category_name": "크로스백"
+        },
+        {
+          "category_name": "에코,캔버스백",
+          "category_code": 269105100,
+          "raw_category_name": "에코,캔버스백"
+        },
+        {
+          "category_name": "백팩",
+          "category_code": 269106100,
+          "raw_category_name": "백팩"
+        },
+        {
+          "category_name": "클러치",
+          "category_code": 269113100,
+          "raw_category_name": "클러치"
+        },
+        {
+          "category_name": "파우치",
+          "category_code": 269114100,
+          "raw_category_name": "파우치"
+        },
+        {
+          "category_name": "가방 액세서리",
+          "category_code": 269109100,
+          "raw_category_name": "가방 액세서리"
+        },
+        {
+          "category_name": "해외브랜드",
+          "category_code": 269112100,
+          "raw_category_name": "해외브랜드"
+        }
+      ]
+    },
+    {
+      "category_code": 270100100,
+      "category_name": "신발",
+      "raw_category_name": "여성신발",
+      "medium_category_list": [
+        {
+          "category_name": "EXCLUSIVE",
+          "category_code": 270116100,
+          "raw_category_name": "EXCLUSIVE"
+        },
+        {
+          "category_name": "해외브랜드",
+          "category_code": 270110100,
+          "raw_category_name": "해외브랜드"
+        },
+        {
+          "category_name": "플랫,로퍼",
+          "category_code": 270101100,
+          "raw_category_name": "플랫,로퍼"
+        },
+        {
+          "category_name": "부츠",
+          "category_code": 270103100,
+          "raw_category_name": "부츠"
+        },
+        {
+          "category_name": "펌프스",
+          "category_code": 270102100,
+          "raw_category_name": "펌프스"
+        },
+        {
+          "category_name": "샌들",
+          "category_code": 270104100,
+          "raw_category_name": "샌들"
+        },
+        {
+          "category_name": "슬리퍼,뮬",
+          "category_code": 270105100,
+          "raw_category_name": "슬리퍼,뮬"
+        },
+        {
+          "category_name": "스니커즈",
+          "category_code": 270106100,
+          "raw_category_name": "스니커즈"
+        },
+        {
+          "category_name": "신발 액세서리",
+          "category_code": 270107100,
+          "raw_category_name": "신발 액세서리"
+        }
+      ]
+    },
+    {
+      "category_code": 271100100,
+      "category_name": "액세서리",
+      "raw_category_name": "여성액세서리",
+      "medium_category_list": [
+        {
+          "category_name": "EXCLUSIVE",
+          "category_code": 271119100,
+          "raw_category_name": "EXCLUSIVE"
+        },
+        {
+          "category_name": "해외브랜드",
+          "category_code": 271113100,
+          "raw_category_name": "해외브랜드"
+        },
+        {
+          "category_name": "주얼리",
+          "category_code": 271101100,
+          "raw_category_name": "주얼리"
+        },
+        {
+          "category_name": "모자",
+          "category_code": 271102100,
+          "raw_category_name": "모자"
+        },
+        {
+          "category_name": "시계",
+          "category_code": 271103100,
+          "raw_category_name": "시계"
+        },
+        {
+          "category_name": "지갑,카드케이스",
+          "category_code": 271112100,
+          "raw_category_name": "지갑,카드케이스"
+        },
+        {
+          "category_name": "아이웨어",
+          "category_code": 271104100,
+          "raw_category_name": "아이웨어"
+        },
+        {
+          "category_name": "벨트",
+          "category_code": 271105100,
+          "raw_category_name": "벨트"
+        },
+        {
+          "category_name": "양말",
+          "category_code": 271106100,
+          "raw_category_name": "양말"
+        },
+        {
+          "category_name": "스카프",
+          "category_code": 271116100,
+          "raw_category_name": "스카프"
+        },
+        {
+          "category_name": "머플러",
+          "category_code": 271117100,
+          "raw_category_name": "머플러"
+        },
+        {
+          "category_name": "넥워머",
+          "category_code": 271118100,
+          "raw_category_name": "넥워머"
+        },
+        {
+          "category_name": "장갑",
+          "category_code": 271108100,
+          "raw_category_name": "장갑"
+        },
+        {
+          "category_name": "헤어 액세서리",
+          "category_code": 271115100,
+          "raw_category_name": "헤어 액세서리"
+        },
+        {
+          "category_name": "기타 액세서리",
+          "category_code": 271109100,
+          "raw_category_name": "기타 액세서리"
+        }
+      ]
+    }
+  ],
+  "is_deleted": "F",
+  "insert_timestamp": "2020-10-28 05:10:00",
+  "updated_timestamp": "2020-10-28 05:10:48",
+  "name": "WOMEN",
+  "sequence": 1,
+  "is_display": "T",
+  "admin_no": 4808
+}

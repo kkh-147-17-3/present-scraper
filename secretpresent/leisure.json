@@ -1,0 +1,339 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "category": {
+        "category_name": "레저",
+        "category_code": 286100100,
+        "category2": [
+          {
+            "category_name": "캠핑",
+            "category_code": 286101100,
+            "category3": [
+              {
+                "category_name": "아이스박스",
+                "category_code": 286101120,
+                "count": 64
+              },
+              {
+                "category_name": "랜턴",
+                "category_code": 286101116,
+                "count": 236
+              },
+              {
+                "category_name": "조명",
+                "category_code": 286101115,
+                "count": 41
+              },
+              {
+                "category_name": "쿨러",
+                "category_code": 286101121,
+                "count": 159
+              },
+              {
+                "category_name": "텀블러",
+                "category_code": 286101119,
+                "count": 461
+              },
+              {
+                "category_name": "텐트,타프,쉘터",
+                "category_code": 286101101,
+                "count": 784
+              },
+              {
+                "category_name": "퍼니처",
+                "category_code": 286101102,
+                "count": 1069
+              },
+              {
+                "category_name": "침낭,매트,해먹",
+                "category_code": 286101103,
+                "count": 830
+              },
+              {
+                "category_name": "스토브,화로대",
+                "category_code": 286101105,
+                "count": 145
+              },
+              {
+                "category_name": "키친",
+                "category_code": 286101106,
+                "count": 1211
+              },
+              {
+                "category_name": "기타용품",
+                "category_code": 286101108,
+                "count": 3103
+              }
+            ],
+            "count": 8144
+          },
+          {
+            "category_name": "등산,하이킹",
+            "category_code": 286102100,
+            "category3": [
+              {
+                "category_name": "아우터",
+                "category_code": 286102106,
+                "count": 1192
+              },
+              {
+                "category_name": "상의",
+                "category_code": 286102101,
+                "count": 859
+              },
+              {
+                "category_name": "하의",
+                "category_code": 286102102,
+                "count": 1209
+              },
+              {
+                "category_name": "신발",
+                "category_code": 286102103,
+                "count": 736
+              },
+              {
+                "category_name": "가방",
+                "category_code": 286102104,
+                "count": 546
+              },
+              {
+                "category_name": "장비,용품",
+                "category_code": 286102105,
+                "count": 1136
+              }
+            ],
+            "count": 5708
+          },
+          {
+            "category_name": "골프",
+            "category_code": 286103100,
+            "category3": [
+              {
+                "category_name": "클럽",
+                "category_code": 286103108,
+                "count": 248
+              },
+              {
+                "category_name": "아우터",
+                "category_code": 286103107,
+                "count": 1067
+              },
+              {
+                "category_name": "상의",
+                "category_code": 286103101,
+                "count": 4275
+              },
+              {
+                "category_name": "하의",
+                "category_code": 286103102,
+                "count": 2146
+              },
+              {
+                "category_name": "신발",
+                "category_code": 286103103,
+                "count": 289
+              },
+              {
+                "category_name": "가방",
+                "category_code": 286103104,
+                "count": 954
+              },
+              {
+                "category_name": "잡화",
+                "category_code": 286103105,
+                "count": 2803
+              },
+              {
+                "category_name": "장비,용품",
+                "category_code": 286103106,
+                "count": 1203
+              }
+            ],
+            "count": 13194
+          },
+          {
+            "category_name": "수영",
+            "category_code": 286104100,
+            "category3": [
+              {
+                "category_name": "여성 수영복",
+                "category_code": 286104101,
+                "count": 2150
+              },
+              {
+                "category_name": "여성 비키니",
+                "category_code": 286104104,
+                "count": 952
+              },
+              {
+                "category_name": "남성 수영복",
+                "category_code": 286104105,
+                "count": 564
+              },
+              {
+                "category_name": "래쉬가드",
+                "category_code": 286104106,
+                "count": 735
+              },
+              {
+                "category_name": "스윔웨어 액세서리",
+                "category_code": 286104107,
+                "count": 275
+              },
+              {
+                "category_name": "용품",
+                "category_code": 286104102,
+                "count": 596
+              },
+              {
+                "category_name": "서핑",
+                "category_code": 286104103,
+                "count": 260
+              }
+            ],
+            "count": 6718
+          },
+          {
+            "category_name": "러닝",
+            "category_code": 286105100,
+            "category3": [
+              {
+                "category_name": "상의",
+                "category_code": 286105101,
+                "count": 279
+              },
+              {
+                "category_name": "하의",
+                "category_code": 286105102,
+                "count": 163
+              },
+              {
+                "category_name": "신발",
+                "category_code": 286105103,
+                "count": 1264
+              },
+              {
+                "category_name": "장비,용품",
+                "category_code": 286105104,
+                "count": 747
+              }
+            ],
+            "count": 2453
+          },
+          {
+            "category_name": "실내운동",
+            "category_code": 286106100,
+            "category3": [
+              {
+                "category_name": "상의",
+                "category_code": 286106101,
+                "count": 6886
+              },
+              {
+                "category_name": "하의",
+                "category_code": 286106102,
+                "count": 4263
+              },
+              {
+                "category_name": "장비,용품",
+                "category_code": 286106103,
+                "count": 1078
+              },
+              {
+                "category_name": "기구",
+                "category_code": 286106104,
+                "count": 294
+              },
+              {
+                "category_name": "커버업",
+                "category_code": 286106105,
+                "count": 633
+              }
+            ],
+            "count": 13254
+          },
+          {
+            "category_name": "여행",
+            "category_code": 286107100,
+            "category3": [
+              {
+                "category_name": "캐리어",
+                "category_code": 286107101,
+                "count": 1160
+              },
+              {
+                "category_name": "여행가방",
+                "category_code": 286107102,
+                "count": 407
+              },
+              {
+                "category_name": "여행소품",
+                "category_code": 286107103,
+                "count": 760
+              }
+            ],
+            "count": 2327
+          },
+          {
+            "category_name": "테니스",
+            "category_code": 286108100,
+            "category3": [
+              {
+                "category_name": "상의",
+                "category_code": 286108101,
+                "count": 292
+              },
+              {
+                "category_name": "하의",
+                "category_code": 286108102,
+                "count": 203
+              },
+              {
+                "category_name": "신발",
+                "category_code": 286108103,
+                "count": 56
+              },
+              {
+                "category_name": "가방",
+                "category_code": 286108104,
+                "count": 65
+              },
+              {
+                "category_name": "잡화",
+                "category_code": 286108105,
+                "count": 227
+              },
+              {
+                "category_name": "장비,용품",
+                "category_code": 286108106,
+                "count": 94
+              }
+            ],
+            "count": 947
+          },
+          {
+            "category_name": "자전거",
+            "category_code": 286109100,
+            "category3": [
+              {
+                "category_name": "자전거",
+                "category_code": 286109101,
+                "count": 101
+              },
+              {
+                "category_name": "장비,용품",
+                "category_code": 286109102,
+                "count": 357
+              }
+            ],
+            "count": 470
+          }
+        ],
+        "count": 53694
+      }
+    }
+  ]
+}

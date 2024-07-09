@@ -1,0 +1,464 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "category": {
+        "category_name": "주방,생활",
+        "category_code": 292100100,
+        "category2": [
+          {
+            "category_name": "PREMIUM",
+            "category_code": 292101100,
+            "category3": [
+              {
+                "category_name": "쿡웨어",
+                "category_code": 292101101,
+                "count": 1317
+              },
+              {
+                "category_name": "테이블웨어",
+                "category_code": 292101102,
+                "count": 4430
+              },
+              {
+                "category_name": "홈패브릭,베딩",
+                "category_code": 292101103,
+                "count": 1013
+              }
+            ],
+            "count": 6837
+          },
+          {
+            "category_name": "LIVING TASTE",
+            "category_code": 292102100,
+            "category3": [
+              {
+                "category_name": "모던",
+                "category_code": 292102101,
+                "count": 176
+              },
+              {
+                "category_name": "내추럴,우드",
+                "category_code": 292102102,
+                "count": 198
+              },
+              {
+                "category_name": "빈티지,클래식",
+                "category_code": 292102103,
+                "count": 189
+              }
+            ],
+            "count": 563
+          },
+          {
+            "category_name": "쿡웨어",
+            "category_code": 292103100,
+            "category3": [
+              {
+                "category_name": "쿡웨어 세트",
+                "category_code": 292103101,
+                "count": 270
+              },
+              {
+                "category_name": "냄비,뚝배기",
+                "category_code": 292103102,
+                "count": 1713
+              },
+              {
+                "category_name": "프라이팬,그릴",
+                "category_code": 292103103,
+                "count": 1597
+              },
+              {
+                "category_name": "조리도구세트",
+                "category_code": 292103104,
+                "count": 223
+              },
+              {
+                "category_name": "조리도구",
+                "category_code": 292103105,
+                "count": 4032
+              },
+              {
+                "category_name": "채반,믹싱볼",
+                "category_code": 292103106,
+                "count": 332
+              },
+              {
+                "category_name": "휴대용가스레인지",
+                "category_code": 292103107,
+                "count": 28
+              },
+              {
+                "category_name": "커피용품",
+                "category_code": 292103108,
+                "count": 735
+              }
+            ],
+            "count": 8934
+          },
+          {
+            "category_name": "테이블웨어",
+            "category_code": 292104100,
+            "category3": [
+              {
+                "category_name": "찬기",
+                "category_code": 292104115,
+                "count": 568
+              },
+              {
+                "category_name": "볼",
+                "category_code": 292104117,
+                "count": 1506
+              },
+              {
+                "category_name": "식기세트",
+                "category_code": 292104101,
+                "count": 2430
+              },
+              {
+                "category_name": "식기,공기",
+                "category_code": 292104102,
+                "count": 2146
+              },
+              {
+                "category_name": "접시,플레이트",
+                "category_code": 292104103,
+                "count": 8682
+              },
+              {
+                "category_name": "수저,커트러리",
+                "category_code": 292104105,
+                "count": 1559
+              },
+              {
+                "category_name": "머그컵",
+                "category_code": 292104106,
+                "count": 6505
+              },
+              {
+                "category_name": "유리컵",
+                "category_code": 292104107,
+                "count": 3105
+              },
+              {
+                "category_name": "텀블러",
+                "category_code": 292104108,
+                "count": 3650
+              },
+              {
+                "category_name": "커피잔,찻잔",
+                "category_code": 292104109,
+                "count": 1057
+              },
+              {
+                "category_name": "주류잔,주류용품",
+                "category_code": 292104110,
+                "count": 2020
+              },
+              {
+                "category_name": "티팟,주전자,물병",
+                "category_code": 292104111,
+                "count": 681
+              },
+              {
+                "category_name": "기타 소품",
+                "category_code": 292104112,
+                "count": 4922
+              }
+            ],
+            "count": 38865
+          },
+          {
+            "category_name": "침구",
+            "category_code": 292105100,
+            "category3": [
+              {
+                "category_name": "침구세트",
+                "category_code": 292105101,
+                "count": 6464
+              },
+              {
+                "category_name": "차렵이불",
+                "category_code": 292105102,
+                "count": 3456
+              },
+              {
+                "category_name": "이불",
+                "category_code": 292105103,
+                "count": 3618
+              },
+              {
+                "category_name": "홑이불",
+                "category_code": 292105104,
+                "count": 853
+              },
+              {
+                "category_name": "이불솜",
+                "category_code": 292105105,
+                "count": 255
+              },
+              {
+                "category_name": "이불커버",
+                "category_code": 292105106,
+                "count": 980
+              },
+              {
+                "category_name": "토퍼",
+                "category_code": 292105107,
+                "count": 290
+              },
+              {
+                "category_name": "스프레드",
+                "category_code": 292105108,
+                "count": 2377
+              },
+              {
+                "category_name": "매트리스커버",
+                "category_code": 292105109,
+                "count": 1002
+              },
+              {
+                "category_name": "쿠션",
+                "category_code": 292105110,
+                "count": 6183
+              },
+              {
+                "category_name": "베개,베개커버",
+                "category_code": 292105111,
+                "count": 4920
+              }
+            ],
+            "count": 30428
+          },
+          {
+            "category_name": "욕실",
+            "category_code": 292107100,
+            "category3": [
+              {
+                "category_name": "가글",
+                "category_code": 292107110,
+                "count": 80
+              },
+              {
+                "category_name": "치약",
+                "category_code": 292107109,
+                "count": 206
+              },
+              {
+                "category_name": "비치타월",
+                "category_code": 292107113,
+                "count": 408
+              },
+              {
+                "category_name": "핸드타월",
+                "category_code": 292107112,
+                "count": 234
+              },
+              {
+                "category_name": "페이스타월",
+                "category_code": 292107111,
+                "count": 1111
+              },
+              {
+                "category_name": "칫솔",
+                "category_code": 292107102,
+                "count": 1316
+              },
+              {
+                "category_name": "욕실용품",
+                "category_code": 292107104,
+                "count": 2823
+              },
+              {
+                "category_name": "샤워용품",
+                "category_code": 292107105,
+                "count": 559
+              },
+              {
+                "category_name": "발매트",
+                "category_code": 292107106,
+                "count": 1226
+              }
+            ],
+            "count": 12122
+          },
+          {
+            "category_name": "수납,정리",
+            "category_code": 292108100,
+            "category3": [
+              {
+                "category_name": "주방밀폐용기",
+                "category_code": 292108101,
+                "count": 1868
+              },
+              {
+                "category_name": "주방보관용기",
+                "category_code": 292108102,
+                "count": 821
+              },
+              {
+                "category_name": "식기건조대",
+                "category_code": 292108103,
+                "count": 169
+              },
+              {
+                "category_name": "트레이",
+                "category_code": 292108104,
+                "count": 1670
+              },
+              {
+                "category_name": "기타주방수납",
+                "category_code": 292108105,
+                "count": 1390
+              },
+              {
+                "category_name": "씽크대용품",
+                "category_code": 292108106,
+                "count": 1120
+              },
+              {
+                "category_name": "행거",
+                "category_code": 292108107,
+                "count": 821
+              },
+              {
+                "category_name": "수납장,서랍장",
+                "category_code": 292108108,
+                "count": 737
+              },
+              {
+                "category_name": "리빙박스,바스켓",
+                "category_code": 292108109,
+                "count": 1795
+              },
+              {
+                "category_name": "선반,트롤리",
+                "category_code": 292108110,
+                "count": 1110
+              },
+              {
+                "category_name": "옷걸이",
+                "category_code": 292108111,
+                "count": 434
+              },
+              {
+                "category_name": "신발정리",
+                "category_code": 292108112,
+                "count": 140
+              },
+              {
+                "category_name": "화장대정리",
+                "category_code": 292108113,
+                "count": 410
+              },
+              {
+                "category_name": "휴지통,분리수거함",
+                "category_code": 292108114,
+                "count": 517
+              },
+              {
+                "category_name": "빨래용품",
+                "category_code": 292108115,
+                "count": 183
+              }
+            ],
+            "count": 13206
+          },
+          {
+            "category_name": "홈케어",
+            "category_code": 292109100,
+            "category3": [
+              {
+                "category_name": "탈취,제습제",
+                "category_code": 292109101,
+                "count": 675
+              },
+              {
+                "category_name": "세탁세제",
+                "category_code": 292109102,
+                "count": 975
+              },
+              {
+                "category_name": "청소,주방세제",
+                "category_code": 292109103,
+                "count": 679
+              },
+              {
+                "category_name": "안전용품",
+                "category_code": 292109104,
+                "count": 106
+              },
+              {
+                "category_name": "화장지",
+                "category_code": 292109105,
+                "count": 70
+              },
+              {
+                "category_name": "청소용품",
+                "category_code": 292109106,
+                "count": 1972
+              }
+            ],
+            "count": 4483
+          },
+          {
+            "category_name": "반려동물",
+            "category_code": 292110100,
+            "category3": [
+              {
+                "category_name": "쿠션,침대",
+                "category_code": 292110113,
+                "count": 222
+              },
+              {
+                "category_name": "의류",
+                "category_code": 292110101,
+                "count": 3268
+              },
+              {
+                "category_name": "하우스",
+                "category_code": 292110102,
+                "count": 534
+              },
+              {
+                "category_name": "강아지 음식",
+                "category_code": 292110103,
+                "count": 701
+              },
+              {
+                "category_name": "고양이 음식",
+                "category_code": 292110104,
+                "count": 335
+              },
+              {
+                "category_name": "강아지 용품",
+                "category_code": 292110105,
+                "count": 3111
+              },
+              {
+                "category_name": "고양이 용품",
+                "category_code": 292110106,
+                "count": 361
+              },
+              {
+                "category_name": "강아지 장난감",
+                "category_code": 292110107,
+                "count": 436
+              },
+              {
+                "category_name": "고양이 장난감",
+                "category_code": 292110108,
+                "count": 182
+              }
+            ],
+            "count": 9165
+          }
+        ],
+        "count": 124607
+      }
+    }
+  ]
+}

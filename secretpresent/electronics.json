@@ -1,0 +1,344 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "category": {
+        "category_name": "가전",
+        "category_code": 293100100,
+        "category2": [
+          {
+            "category_name": "영상가전",
+            "category_code": 293101100,
+            "category3": [
+              {
+                "category_name": "TV",
+                "category_code": 293101101,
+                "count": 416
+              },
+              {
+                "category_name": "모니터",
+                "category_code": 293101102,
+                "count": 454
+              },
+              {
+                "category_name": "프로젝터",
+                "category_code": 293101103,
+                "count": 127
+              },
+              {
+                "category_name": "사운드바",
+                "category_code": 293101104,
+                "count": 104
+              },
+              {
+                "category_name": "기타 액세서리",
+                "category_code": 293101105,
+                "count": 53
+              }
+            ],
+            "count": 1154
+          },
+          {
+            "category_name": "주방가전",
+            "category_code": 293102100,
+            "category3": [
+              {
+                "category_name": "일반냉장고,냉동고",
+                "category_code": 293102101,
+                "count": 344
+              },
+              {
+                "category_name": "양문형냉장고",
+                "category_code": 293102102,
+                "count": 264
+              },
+              {
+                "category_name": "김치냉장고,와인셀러",
+                "category_code": 293102103,
+                "count": 202
+              },
+              {
+                "category_name": "전기주전자",
+                "category_code": 293102104,
+                "count": 362
+              },
+              {
+                "category_name": "에어프라이어",
+                "category_code": 293102105,
+                "count": 220
+              },
+              {
+                "category_name": "토스터,홈베이킹",
+                "category_code": 293102106,
+                "count": 261
+              },
+              {
+                "category_name": "쿠커,그릴",
+                "category_code": 293102107,
+                "count": 257
+              },
+              {
+                "category_name": "블랜더,믹서",
+                "category_code": 293102108,
+                "count": 480
+              },
+              {
+                "category_name": "오븐,전자레인지",
+                "category_code": 293102109,
+                "count": 285
+              },
+              {
+                "category_name": "가스레인지,인덕션",
+                "category_code": 293102110,
+                "count": 260
+              },
+              {
+                "category_name": "전기밥솥",
+                "category_code": 293102111,
+                "count": 215
+              },
+              {
+                "category_name": "식기세척기,세제",
+                "category_code": 293102112,
+                "count": 138
+              },
+              {
+                "category_name": "커피머신",
+                "category_code": 293102113,
+                "count": 217
+              },
+              {
+                "category_name": "기타주방가전",
+                "category_code": 293102114,
+                "count": 594
+              }
+            ],
+            "count": 5860
+          },
+          {
+            "category_name": "세탁기,건조기",
+            "category_code": 293103100,
+            "category3": [
+              {
+                "category_name": "드럼세탁기",
+                "category_code": 293103101,
+                "count": 341
+              },
+              {
+                "category_name": "일반세탁기",
+                "category_code": 293103102,
+                "count": 54
+              },
+              {
+                "category_name": "건조기",
+                "category_code": 293103103,
+                "count": 281
+              },
+              {
+                "category_name": "의류관리기",
+                "category_code": 293103104,
+                "count": 73
+              },
+              {
+                "category_name": "미니세탁기,건조기",
+                "category_code": 293103105,
+                "count": 30
+              }
+            ],
+            "count": 786
+          },
+          {
+            "category_name": "청소기",
+            "category_code": 293104100,
+            "category3": [
+              {
+                "category_name": "무선청소기",
+                "category_code": 293104101,
+                "count": 243
+              },
+              {
+                "category_name": "로봇청소기",
+                "category_code": 293104102,
+                "count": 171
+              },
+              {
+                "category_name": "물걸레청소기",
+                "category_code": 293104103,
+                "count": 129
+              },
+              {
+                "category_name": "스팀청소기",
+                "category_code": 293104104,
+                "count": 46
+              },
+              {
+                "category_name": "유선청소기",
+                "category_code": 293104105,
+                "count": 43
+              },
+              {
+                "category_name": "차량용,핸디청소기",
+                "category_code": 293104106,
+                "count": 64
+              },
+              {
+                "category_name": "침구청소기",
+                "category_code": 293104107,
+                "count": 22
+              },
+              {
+                "category_name": "액세서리",
+                "category_code": 293104108,
+                "count": 41
+              }
+            ],
+            "count": 766
+          },
+          {
+            "category_name": "생활가전",
+            "category_code": 293105100,
+            "category3": [
+              {
+                "category_name": "미싱,다리미",
+                "category_code": 293105101,
+                "count": 165
+              },
+              {
+                "category_name": "멀티탭",
+                "category_code": 293105102,
+                "count": 213
+              },
+              {
+                "category_name": "보풀제거기",
+                "category_code": 293105103,
+                "count": 103
+              },
+              {
+                "category_name": "기타 생활가전",
+                "category_code": 293105104,
+                "count": 1547
+              }
+            ],
+            "count": 2055
+          },
+          {
+            "category_name": "계절가전",
+            "category_code": 293106100,
+            "category3": [
+              {
+                "category_name": "공기청정기",
+                "category_code": 293106101,
+                "count": 926
+              },
+              {
+                "category_name": "선풍기,냉풍기",
+                "category_code": 293106102,
+                "count": 1355
+              },
+              {
+                "category_name": "제습기",
+                "category_code": 293106103,
+                "count": 148
+              },
+              {
+                "category_name": "에어컨",
+                "category_code": 293106104,
+                "count": 410
+              },
+              {
+                "category_name": "가습기",
+                "category_code": 293106105,
+                "count": 773
+              },
+              {
+                "category_name": "온열매트,온수매트",
+                "category_code": 293106108,
+                "count": 254
+              },
+              {
+                "category_name": "전기히터,온풍기",
+                "category_code": 293106106,
+                "count": 390
+              },
+              {
+                "category_name": "기타 계절가전",
+                "category_code": 293106107,
+                "count": 553
+              }
+            ],
+            "count": 4813
+          },
+          {
+            "category_name": "이미용가전",
+            "category_code": 293107100,
+            "category3": [
+              {
+                "category_name": "드라이기",
+                "category_code": 293107101,
+                "count": 376
+              },
+              {
+                "category_name": "고데기,매직기",
+                "category_code": 293107102,
+                "count": 382
+              },
+              {
+                "category_name": "면도기,제모기",
+                "category_code": 293107103,
+                "count": 213
+              },
+              {
+                "category_name": "전동칫솔,칫솔살균기",
+                "category_code": 293107104,
+                "count": 315
+              },
+              {
+                "category_name": "기타 이미용가전",
+                "category_code": 293107105,
+                "count": 320
+              }
+            ],
+            "count": 1636
+          },
+          {
+            "category_name": "건강가전",
+            "category_code": 293108100,
+            "category3": [
+              {
+                "category_name": "안마의자",
+                "category_code": 293108101,
+                "count": 76
+              },
+              {
+                "category_name": "안마기",
+                "category_code": 293108102,
+                "count": 593
+              },
+              {
+                "category_name": "기타 건강가전",
+                "category_code": 293108103,
+                "count": 253
+              }
+            ],
+            "count": 922
+          },
+          {
+            "category_name": "리퍼브",
+            "category_code": 293109100,
+            "category3": [
+              {
+                "category_name": "리퍼브",
+                "category_code": 293109101,
+                "count": 185
+              }
+            ],
+            "count": 189
+          }
+        ],
+        "count": 18181
+      }
+    }
+  ]
+}

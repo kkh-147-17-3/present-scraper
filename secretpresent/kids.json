@@ -1,0 +1,132 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "category": {
+        "category_name": "유아,아동",
+        "category_code": 290100100,
+        "category2": [
+          {
+            "category_name": "의류",
+            "category_code": 290101100,
+            "category3": [
+              {
+                "category_name": "상의",
+                "category_code": 290101101,
+                "count": 5926
+              },
+              {
+                "category_name": "하의",
+                "category_code": 290101102,
+                "count": 1632
+              },
+              {
+                "category_name": "원피스",
+                "category_code": 290101103,
+                "count": 678
+              },
+              {
+                "category_name": "스커트",
+                "category_code": 290101104,
+                "count": 99
+              },
+              {
+                "category_name": "반바지",
+                "category_code": 290101105,
+                "count": 408
+              },
+              {
+                "category_name": "스웨터,니트",
+                "category_code": 290101106,
+                "count": 385
+              },
+              {
+                "category_name": "실내복",
+                "category_code": 290101107,
+                "count": 692
+              },
+              {
+                "category_name": "속옷",
+                "category_code": 290101108,
+                "count": 25
+              },
+              {
+                "category_name": "양말,레그웨어",
+                "category_code": 290101109,
+                "count": 473
+              }
+            ],
+            "count": 10354
+          },
+          {
+            "category_name": "신발,가방",
+            "category_code": 290102100,
+            "category3": [
+              {
+                "category_name": "운동화",
+                "category_code": 290102101,
+                "count": 1039
+              },
+              {
+                "category_name": "샌들",
+                "category_code": 290102102,
+                "count": 511
+              },
+              {
+                "category_name": "장화",
+                "category_code": 290102103,
+                "count": 153
+              },
+              {
+                "category_name": "가방",
+                "category_code": 290102104,
+                "count": 170
+              },
+              {
+                "category_name": "잡화",
+                "category_code": 290102105,
+                "count": 1059
+              }
+            ],
+            "count": 2941
+          },
+          {
+            "category_name": "아동,홈",
+            "category_code": 290103100,
+            "category3": [
+              {
+                "category_name": "테이블웨어",
+                "category_code": 290103102,
+                "count": 194
+              },
+              {
+                "category_name": "침구,패브릭",
+                "category_code": 290103103,
+                "count": 631
+              },
+              {
+                "category_name": "욕실",
+                "category_code": 290103104,
+                "count": 130
+              },
+              {
+                "category_name": "장난감",
+                "category_code": 290103105,
+                "count": 404
+              },
+              {
+                "category_name": "유아용품",
+                "category_code": 290103106,
+                "count": 794
+              }
+            ],
+            "count": 2157
+          }
+        ],
+        "count": 15452
+      }
+    }
+  ]
+}

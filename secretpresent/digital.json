@@ -1,0 +1,305 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "category": {
+        "category_name": "컴퓨터,디지털",
+        "category_code": 294100100,
+        "category2": [
+          {
+            "category_name": "음향기기",
+            "category_code": 294101100,
+            "category3": [
+              {
+                "category_name": "헤드폰",
+                "category_code": 294101107,
+                "count": 331
+              },
+              {
+                "category_name": "이어폰",
+                "category_code": 294101108,
+                "count": 638
+              },
+              {
+                "category_name": "마이크",
+                "category_code": 294101110,
+                "count": 162
+              },
+              {
+                "category_name": "스피커",
+                "category_code": 294101101,
+                "count": 1539
+              },
+              {
+                "category_name": "턴테이블",
+                "category_code": 294101102,
+                "count": 111
+              },
+              {
+                "category_name": "사운드바",
+                "category_code": 294101105,
+                "count": 138
+              },
+              {
+                "category_name": "오디오 액세서리",
+                "category_code": 294101104,
+                "count": 365
+              },
+              {
+                "category_name": "이어폰,헤드폰 케이스",
+                "category_code": 294101106,
+                "count": 13765
+              },
+              {
+                "category_name": "이어폰,헤드폰 액세서리",
+                "category_code": 294101109,
+                "count": 741
+              }
+            ],
+            "count": 17817
+          },
+          {
+            "category_name": "모바일,웨어러블",
+            "category_code": 294102100,
+            "category3": [
+              {
+                "category_name": "핸드폰,스마트폰",
+                "category_code": 294102101,
+                "count": 184
+              },
+              {
+                "category_name": "태블릿",
+                "category_code": 294102102,
+                "count": 453
+              },
+              {
+                "category_name": "스마트워치",
+                "category_code": 294102103,
+                "count": 404
+              },
+              {
+                "category_name": "보조배터리",
+                "category_code": 294102106,
+                "count": 1825
+              },
+              {
+                "category_name": "케이블,젠더",
+                "category_code": 294102108,
+                "count": 1428
+              }
+            ],
+            "count": 23923
+          },
+          {
+            "category_name": "모바일 액세서리",
+            "category_code": 294108100,
+            "category3": [
+              {
+                "category_name": "스마트폰 케이스",
+                "category_code": 294108101,
+                "count": 46794
+              },
+              {
+                "category_name": "그립톡",
+                "category_code": 294108102,
+                "count": 6352
+              },
+              {
+                "category_name": "태블릿 액세서리",
+                "category_code": 294108103,
+                "count": 1837
+              },
+              {
+                "category_name": "스마트워치 액세서리",
+                "category_code": 294108104,
+                "count": 1176
+              },
+              {
+                "category_name": "이어폰,헤드폰 액세서리",
+                "category_code": 294108109,
+                "count": 13740
+              },
+              {
+                "category_name": "충전기,거치대",
+                "category_code": 294108105,
+                "count": 1603
+              },
+              {
+                "category_name": "보호필름",
+                "category_code": 294108106,
+                "count": 1021
+              },
+              {
+                "category_name": "기타 액세서리",
+                "category_code": 294108107,
+                "count": 2737
+              }
+            ],
+            "count": 75270
+          },
+          {
+            "category_name": "PC,노트북",
+            "category_code": 294103100,
+            "category3": [
+              {
+                "category_name": "데스크탑",
+                "category_code": 294103101,
+                "count": 334
+              },
+              {
+                "category_name": "노트북",
+                "category_code": 294103102,
+                "count": 918
+              },
+              {
+                "category_name": "프린터 및 주변기기",
+                "category_code": 294103103,
+                "count": 246
+              },
+              {
+                "category_name": "PC,노트북 액세서리",
+                "category_code": 294103104,
+                "count": 2616
+              },
+              {
+                "category_name": "저장장치",
+                "category_code": 294103105,
+                "count": 555
+              },
+              {
+                "category_name": "모니터",
+                "category_code": 294103106,
+                "count": 373
+              },
+              {
+                "category_name": "키보드",
+                "category_code": 294103108,
+                "count": 744
+              },
+              {
+                "category_name": "마우스",
+                "category_code": 294103109,
+                "count": 441
+              }
+            ],
+            "count": 6229
+          },
+          {
+            "category_name": "게임",
+            "category_code": 294107100,
+            "category3": [
+              {
+                "category_name": "게임기",
+                "category_code": 294107101,
+                "count": 300
+              },
+              {
+                "category_name": "타이틀",
+                "category_code": 294107102,
+                "count": 443
+              },
+              {
+                "category_name": "액세서리",
+                "category_code": 294107103,
+                "count": 478
+              }
+            ],
+            "count": 1221
+          },
+          {
+            "category_name": "사진",
+            "category_code": 294106100,
+            "category3": [
+              {
+                "category_name": "카메라",
+                "category_code": 294106101,
+                "count": 399
+              },
+              {
+                "category_name": "렌즈",
+                "category_code": 294106102,
+                "count": 108
+              },
+              {
+                "category_name": "가방,파우치",
+                "category_code": 294106103,
+                "count": 96
+              },
+              {
+                "category_name": "삼각대",
+                "category_code": 294106104,
+                "count": 95
+              },
+              {
+                "category_name": "필름",
+                "category_code": 294106105,
+                "count": 108
+              },
+              {
+                "category_name": "메모리카드",
+                "category_code": 294106106,
+                "count": 16
+              },
+              {
+                "category_name": "인화용품",
+                "category_code": 294106107,
+                "count": 39
+              },
+              {
+                "category_name": "스트랩",
+                "category_code": 294106108,
+                "count": 61
+              },
+              {
+                "category_name": "기타 액세서리",
+                "category_code": 294106109,
+                "count": 201
+              }
+            ],
+            "count": 1124
+          },
+          {
+            "category_name": "자동차용품,장난감",
+            "category_code": 294105100,
+            "category3": [
+              {
+                "category_name": "차량용 공기청정기",
+                "category_code": 294105101,
+                "count": 71
+              },
+              {
+                "category_name": "방향제",
+                "category_code": 294105102,
+                "count": 557
+              },
+              {
+                "category_name": "충전,거치대",
+                "category_code": 294105103,
+                "count": 462
+              },
+              {
+                "category_name": "기타 자동차 액세서리",
+                "category_code": 294105104,
+                "count": 787
+              },
+              {
+                "category_name": "아트토이",
+                "category_code": 294105105,
+                "count": 459
+              },
+              {
+                "category_name": "보드게임",
+                "category_code": 294105106,
+                "count": 81
+              }
+            ],
+            "count": 2429
+          }
+        ],
+        "count": 128013
+      }
+    }
+  ]
+}

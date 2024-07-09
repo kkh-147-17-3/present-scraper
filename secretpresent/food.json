@@ -1,0 +1,184 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "category": {
+        "category_name": "푸드",
+        "category_code": 289100100,
+        "category2": [
+          {
+            "category_name": "선물세트",
+            "category_code": 289106100,
+            "category3": [
+              {
+                "category_name": "유음료",
+                "category_code": 289106101,
+                "count": 842
+              },
+              {
+                "category_name": "꿀,잼,오일",
+                "category_code": 289106102,
+                "count": 287
+              },
+              {
+                "category_name": "건강",
+                "category_code": 289106103,
+                "count": 335
+              },
+              {
+                "category_name": "간식",
+                "category_code": 289106104,
+                "count": 305
+              },
+              {
+                "category_name": "이너뷰티",
+                "category_code": 289106105,
+                "count": 111
+              },
+              {
+                "category_name": "신선",
+                "category_code": 289106106,
+                "count": 325
+              }
+            ],
+            "count": 2398
+          },
+          {
+            "category_name": "음료",
+            "category_code": 289101100,
+            "category3": [
+              {
+                "category_name": "커피",
+                "category_code": 289101101,
+                "count": 2052
+              },
+              {
+                "category_name": "차",
+                "category_code": 289101102,
+                "count": 2247
+              },
+              {
+                "category_name": "전통주",
+                "category_code": 289101103,
+                "count": 1088
+              },
+              {
+                "category_name": "음료,쥬스,즙",
+                "category_code": 289101104,
+                "count": 1301
+              },
+              {
+                "category_name": "물,탄산수",
+                "category_code": 289101105,
+                "count": 125
+              }
+            ],
+            "count": 6877
+          },
+          {
+            "category_name": "가공식품",
+            "category_code": 289102100,
+            "category3": [
+              {
+                "category_name": "잼,꿀",
+                "category_code": 289102101,
+                "count": 598
+              },
+              {
+                "category_name": "유제품",
+                "category_code": 289102102,
+                "count": 293
+              },
+              {
+                "category_name": "반조리식품",
+                "category_code": 289102103,
+                "count": 1674
+              },
+              {
+                "category_name": "쿠킹박스",
+                "category_code": 289102104,
+                "count": 396
+              },
+              {
+                "category_name": "스낵",
+                "category_code": 289102105,
+                "count": 1087
+              },
+              {
+                "category_name": "베이커리,떡",
+                "category_code": 289102106,
+                "count": 605
+              },
+              {
+                "category_name": "견과류,건과일",
+                "category_code": 289102107,
+                "count": 808
+              },
+              {
+                "category_name": "초콜렛,사탕",
+                "category_code": 289102108,
+                "count": 613
+              },
+              {
+                "category_name": "면,파스타",
+                "category_code": 289102109,
+                "count": 244
+              },
+              {
+                "category_name": "소스",
+                "category_code": 289102110,
+                "count": 418
+              },
+              {
+                "category_name": "오일",
+                "category_code": 289102111,
+                "count": 214
+              },
+              {
+                "category_name": "냉동식품",
+                "category_code": 289102112,
+                "count": 712
+              },
+              {
+                "category_name": "홍삼류",
+                "category_code": 289102113,
+                "count": 192
+              }
+            ],
+            "count": 7916
+          },
+          {
+            "category_name": "신선,냉장",
+            "category_code": 289103100,
+            "category3": [
+              {
+                "category_name": "육류,계란",
+                "category_code": 289103101,
+                "count": 791
+              },
+              {
+                "category_name": "수산,해산물",
+                "category_code": 289103102,
+                "count": 133
+              },
+              {
+                "category_name": "과일,채소",
+                "category_code": 289103103,
+                "count": 350
+              },
+              {
+                "category_name": "국,반찬",
+                "category_code": 289103104,
+                "count": 370
+              }
+            ],
+            "count": 1679
+          }
+        ],
+        "count": 18884
+      }
+    }
+  ]
+}

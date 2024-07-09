@@ -1,0 +1,585 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "category": {
+        "category_name": "가구,인테리어",
+        "category_code": 291100100,
+        "category2": [
+          {
+            "category_name": "비앤비이탈리아",
+            "category_code": 291111100,
+            "category3": [
+              {
+                "category_name": "소파",
+                "category_code": 291111107,
+                "count": 14
+              },
+              {
+                "category_name": "식탁",
+                "category_code": 291111106,
+                "count": 4
+              },
+              {
+                "category_name": "협탁,미니 테이블",
+                "category_code": 291111104,
+                "count": 8
+              },
+              {
+                "category_name": "좌식 테이블",
+                "category_code": 291111105,
+                "count": 2
+              },
+              {
+                "category_name": "의자",
+                "category_code": 291111108,
+                "count": 4
+              },
+              {
+                "category_name": "스툴,벤치",
+                "category_code": 291111103,
+                "count": 4
+              },
+              {
+                "category_name": "암체어",
+                "category_code": 291111101,
+                "count": 15
+              },
+              {
+                "category_name": "아웃도어",
+                "category_code": 291111102,
+                "count": 6
+              }
+            ],
+            "count": 61
+          },
+          {
+            "category_name": "PREMIUM",
+            "category_code": 291101100,
+            "category3": [
+              {
+                "category_name": "가구",
+                "category_code": 291101101,
+                "count": 3446
+              },
+              {
+                "category_name": "조명",
+                "category_code": 291101102,
+                "count": 1535
+              },
+              {
+                "category_name": "홈데코",
+                "category_code": 291101103,
+                "count": 3033
+              },
+              {
+                "category_name": "가드닝",
+                "category_code": 291101104,
+                "count": 463
+              }
+            ],
+            "count": 8835
+          },
+          {
+            "category_name": "LIVING TASTE",
+            "category_code": 291102100,
+            "category3": [
+              {
+                "category_name": "미니멀,모던",
+                "category_code": 291102101,
+                "count": 571
+              },
+              {
+                "category_name": "미드센츄리모던",
+                "category_code": 291102102,
+                "count": 198
+              },
+              {
+                "category_name": "내추럴,우드",
+                "category_code": 291102103,
+                "count": 295
+              },
+              {
+                "category_name": "빈티지,레트로",
+                "category_code": 291102104,
+                "count": 209
+              },
+              {
+                "category_name": "클래식,앤티크",
+                "category_code": 291102105,
+                "count": 73
+              },
+              {
+                "category_name": "아트,유니크",
+                "category_code": 291102106,
+                "count": 306
+              }
+            ],
+            "count": 1652
+          },
+          {
+            "category_name": "홈패브릭",
+            "category_code": 291112100,
+            "category3": [
+              {
+                "category_name": "커튼",
+                "category_code": 291112101,
+                "count": 4423
+              },
+              {
+                "category_name": "커튼 부자재",
+                "category_code": 291112102,
+                "count": 153
+              },
+              {
+                "category_name": "블라인드",
+                "category_code": 291112103,
+                "count": 33
+              },
+              {
+                "category_name": "러그",
+                "category_code": 291112104,
+                "count": 2879
+              },
+              {
+                "category_name": "방석",
+                "category_code": 291112105,
+                "count": 467
+              },
+              {
+                "category_name": "실내화",
+                "category_code": 291112106,
+                "count": 505
+              },
+              {
+                "category_name": "앞치마",
+                "category_code": 291112107,
+                "count": 587
+              },
+              {
+                "category_name": "담요",
+                "category_code": 291112109,
+                "count": 794
+              },
+              {
+                "category_name": "소파커버",
+                "category_code": 291112110,
+                "count": 40
+              },
+              {
+                "category_name": "소파패드",
+                "category_code": 291112111,
+                "count": 124
+              },
+              {
+                "category_name": "티슈커버",
+                "category_code": 291112112,
+                "count": 229
+              },
+              {
+                "category_name": "기타커버",
+                "category_code": 291112113,
+                "count": 169
+              },
+              {
+                "category_name": "장바구니",
+                "category_code": 291112114,
+                "count": 20
+              }
+            ],
+            "count": 10423
+          },
+          {
+            "category_name": "가구",
+            "category_code": 291103100,
+            "category3": [
+              {
+                "category_name": "침대",
+                "category_code": 291103101,
+                "count": 645
+              },
+              {
+                "category_name": "매트리스,토퍼",
+                "category_code": 291103102,
+                "count": 513
+              },
+              {
+                "category_name": "옷장",
+                "category_code": 291103103,
+                "count": 61
+              },
+              {
+                "category_name": "협탁,미니테이블",
+                "category_code": 291103104,
+                "count": 1524
+              },
+              {
+                "category_name": "좌식 테이블",
+                "category_code": 291103105,
+                "count": 512
+              },
+              {
+                "category_name": "식탁",
+                "category_code": 291103106,
+                "count": 2025
+              },
+              {
+                "category_name": "주방수납,선반",
+                "category_code": 291103107,
+                "count": 212
+              },
+              {
+                "category_name": "화장대",
+                "category_code": 291103108,
+                "count": 358
+              },
+              {
+                "category_name": "서랍 수납장",
+                "category_code": 291103109,
+                "count": 4708
+              },
+              {
+                "category_name": "책장",
+                "category_code": 291103110,
+                "count": 455
+              },
+              {
+                "category_name": "소파",
+                "category_code": 291103111,
+                "count": 2051
+              },
+              {
+                "category_name": "의자",
+                "category_code": 291103113,
+                "count": 3494
+              },
+              {
+                "category_name": "스툴,벤치",
+                "category_code": 291103114,
+                "count": 1221
+              },
+              {
+                "category_name": "책상",
+                "category_code": 291103115,
+                "count": 825
+              },
+              {
+                "category_name": "오피스의자",
+                "category_code": 291103116,
+                "count": 280
+              }
+            ],
+            "count": 18889
+          },
+          {
+            "category_name": "조명",
+            "category_code": 291104100,
+            "category3": [
+              {
+                "category_name": "장식등",
+                "category_code": 291104109,
+                "count": 264
+              },
+              {
+                "category_name": "무드등",
+                "category_code": 291104108,
+                "count": 818
+              },
+              {
+                "category_name": "포터블 조명",
+                "category_code": 291104111,
+                "count": 80
+              },
+              {
+                "category_name": "벽조명",
+                "category_code": 291104110,
+                "count": 129
+              },
+              {
+                "category_name": "팬던트조명",
+                "category_code": 291104101,
+                "count": 729
+              },
+              {
+                "category_name": "장스탠드",
+                "category_code": 291104102,
+                "count": 434
+              },
+              {
+                "category_name": "단스탠드",
+                "category_code": 291104103,
+                "count": 989
+              },
+              {
+                "category_name": "데스크스탠드",
+                "category_code": 291104104,
+                "count": 484
+              },
+              {
+                "category_name": "기타조명",
+                "category_code": 291104106,
+                "count": 631
+              },
+              {
+                "category_name": "부속품",
+                "category_code": 291104107,
+                "count": 75
+              }
+            ],
+            "count": 6808
+          },
+          {
+            "category_name": "홈데코",
+            "category_code": 291105100,
+            "category3": [
+              {
+                "category_name": "거울",
+                "category_code": 291105101,
+                "count": 923
+              },
+              {
+                "category_name": "벽시계",
+                "category_code": 291105102,
+                "count": 1351
+              },
+              {
+                "category_name": "시계",
+                "category_code": 291105103,
+                "count": 335
+              },
+              {
+                "category_name": "행잉데코,모빌",
+                "category_code": 291105104,
+                "count": 617
+              },
+              {
+                "category_name": "월데코",
+                "category_code": 291105105,
+                "count": 933
+              },
+              {
+                "category_name": "액자",
+                "category_code": 291105116,
+                "count": 1694
+              },
+              {
+                "category_name": "포스터",
+                "category_code": 291105114,
+                "count": 10875
+              },
+              {
+                "category_name": "우드소품",
+                "category_code": 291105109,
+                "count": 676
+              },
+              {
+                "category_name": "인테리어소품",
+                "category_code": 291105110,
+                "count": 12111
+              },
+              {
+                "category_name": "DIY",
+                "category_code": 291105111,
+                "count": 431
+              },
+              {
+                "category_name": "오브제",
+                "category_code": 291105113,
+                "count": 862
+              },
+              {
+                "category_name": "인형",
+                "category_code": 291105125,
+                "count": 44
+              }
+            ],
+            "count": 30924
+          },
+          {
+            "category_name": "가드닝",
+            "category_code": 291106100,
+            "category3": [
+              {
+                "category_name": "식물,꽃",
+                "category_code": 291106101,
+                "count": 3645
+              },
+              {
+                "category_name": "화병",
+                "category_code": 291106102,
+                "count": 2572
+              },
+              {
+                "category_name": "화분",
+                "category_code": 291106103,
+                "count": 885
+              },
+              {
+                "category_name": "가드닝용품",
+                "category_code": 291106104,
+                "count": 983
+              }
+            ],
+            "count": 8091
+          },
+          {
+            "category_name": "홈프레그런스",
+            "category_code": 291107100,
+            "category3": [
+              {
+                "category_name": "인센스",
+                "category_code": 291107101,
+                "count": 652
+              },
+              {
+                "category_name": "캔들",
+                "category_code": 291107102,
+                "count": 1445
+              },
+              {
+                "category_name": "디퓨저",
+                "category_code": 291107103,
+                "count": 1219
+              },
+              {
+                "category_name": "룸스프레이",
+                "category_code": 291107104,
+                "count": 462
+              },
+              {
+                "category_name": "아로마,에센셜 오일",
+                "category_code": 291107105,
+                "count": 85
+              },
+              {
+                "category_name": "홀더,트레이",
+                "category_code": 291107109,
+                "count": 721
+              },
+              {
+                "category_name": "점화도구",
+                "category_code": 291107106,
+                "count": 69
+              },
+              {
+                "category_name": "프레그런스 액세서리",
+                "category_code": 291107107,
+                "count": 28
+              }
+            ],
+            "count": 5011
+          },
+          {
+            "category_name": "아트,디자인",
+            "category_code": 291109100,
+            "category3": [
+              {
+                "category_name": "오리지널,에디션",
+                "category_code": 291109101,
+                "count": 1315
+              },
+              {
+                "category_name": "아트프린트",
+                "category_code": 291109102,
+                "count": 5286
+              },
+              {
+                "category_name": "오브제,공예품",
+                "category_code": 291109103,
+                "count": 711
+              },
+              {
+                "category_name": "예술,디자인 서적",
+                "category_code": 291109105,
+                "count": 459
+              },
+              {
+                "category_name": "굿즈",
+                "category_code": 291109106,
+                "count": 1988
+              }
+            ],
+            "count": 9759
+          },
+          {
+            "category_name": "책,음반",
+            "category_code": 291113100,
+            "category3": [
+              {
+                "category_name": "도서",
+                "category_code": 291113102,
+                "count": 454
+              },
+              {
+                "category_name": "매거진",
+                "category_code": 291113101,
+                "count": 185
+              },
+              {
+                "category_name": "음반",
+                "category_code": 291113103,
+                "count": 4
+              }
+            ],
+            "count": 643
+          },
+          {
+            "category_name": "스테이셔너리",
+            "category_code": 291110100,
+            "category3": [
+              {
+                "category_name": "북 악세서리",
+                "category_code": 291110109,
+                "count": 92
+              },
+              {
+                "category_name": "캘린더",
+                "category_code": 291110101,
+                "count": 1088
+              },
+              {
+                "category_name": "다이어리,플래너",
+                "category_code": 291110102,
+                "count": 2081
+              },
+              {
+                "category_name": "테이프",
+                "category_code": 291110108,
+                "count": 406
+              },
+              {
+                "category_name": "스티커",
+                "category_code": 291110107,
+                "count": 1066
+              },
+              {
+                "category_name": "필기류,미술용품",
+                "category_code": 291110105,
+                "count": 391
+              },
+              {
+                "category_name": "노트,메모",
+                "category_code": 291110106,
+                "count": 1449
+              },
+              {
+                "category_name": "카드,엽서",
+                "category_code": 291110103,
+                "count": 2802
+              },
+              {
+                "category_name": "기타 문구용품",
+                "category_code": 291110104,
+                "count": 4059
+              }
+            ],
+            "count": 13440
+          }
+        ],
+        "count": 124001
+      }
+    }
+  ]
+}

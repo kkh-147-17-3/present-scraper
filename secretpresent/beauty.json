@@ -1,0 +1,483 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "category": {
+        "category_name": "뷰티",
+        "category_code": 266100100,
+        "category2": [
+          {
+            "category_name": "선물세트",
+            "category_code": 266126100,
+            "category3": [],
+            "count": 1641
+          },
+          {
+            "category_name": "스킨케어",
+            "category_code": 266101100,
+            "category3": [
+              {
+                "category_name": "미백, 톤업",
+                "category_code": 266101114,
+                "count": 277
+              },
+              {
+                "category_name": "립밤, 립케어",
+                "category_code": 266101112,
+                "count": 536
+              },
+              {
+                "category_name": "스킨, 토너",
+                "category_code": 266101101,
+                "count": 1140
+              },
+              {
+                "category_name": "미스트",
+                "category_code": 266101102,
+                "count": 397
+              },
+              {
+                "category_name": "에센스, 세럼, 앰플",
+                "category_code": 266101103,
+                "count": 2325
+              },
+              {
+                "category_name": "오일",
+                "category_code": 266101104,
+                "count": 248
+              },
+              {
+                "category_name": "로션, 에멀전",
+                "category_code": 266101105,
+                "count": 420
+              },
+              {
+                "category_name": "크림",
+                "category_code": 266101106,
+                "count": 2104
+              },
+              {
+                "category_name": "아이, 넥 케어",
+                "category_code": 266101107,
+                "count": 381
+              },
+              {
+                "category_name": "선케어",
+                "category_code": 266101108,
+                "count": 839
+              },
+              {
+                "category_name": "마스크, 팩",
+                "category_code": 266101109,
+                "count": 1912
+              },
+              {
+                "category_name": "클렌징",
+                "category_code": 266101110,
+                "count": 2175
+              },
+              {
+                "category_name": "페이셜 패드",
+                "category_code": 266101113,
+                "count": 442
+              },
+              {
+                "category_name": "스킨케어세트",
+                "category_code": 266101111,
+                "count": 1267
+              }
+            ],
+            "count": 14601
+          },
+          {
+            "category_name": "EXCLUSIVE",
+            "category_code": 266103100,
+            "category3": [],
+            "count": 275
+          },
+          {
+            "category_name": "채식주의",
+            "category_code": 266121100,
+            "category3": [],
+            "count": 1630
+          },
+          {
+            "category_name": "친환경 패키지",
+            "category_code": 266122100,
+            "category3": [],
+            "count": 1555
+          },
+          {
+            "category_name": "자연유래",
+            "category_code": 266123100,
+            "category3": [],
+            "count": 1174
+          },
+          {
+            "category_name": "바디케어",
+            "category_code": 266102100,
+            "category3": [
+              {
+                "category_name": "손소독제, 핸드워시",
+                "category_code": 266102113,
+                "count": 774
+              },
+              {
+                "category_name": "바디워시",
+                "category_code": 266102101,
+                "count": 1221
+              },
+              {
+                "category_name": "스크럽",
+                "category_code": 266102102,
+                "count": 216
+              },
+              {
+                "category_name": "로션, 크림",
+                "category_code": 266102103,
+                "count": 964
+              },
+              {
+                "category_name": "바디오일",
+                "category_code": 266102104,
+                "count": 361
+              },
+              {
+                "category_name": "데오드란트",
+                "category_code": 266102105,
+                "count": 102
+              },
+              {
+                "category_name": "제모, 왁싱",
+                "category_code": 266102106,
+                "count": 78
+              },
+              {
+                "category_name": "핸드크림",
+                "category_code": 266102108,
+                "count": 890
+              },
+              {
+                "category_name": "풋케어",
+                "category_code": 266102109,
+                "count": 209
+              },
+              {
+                "category_name": "비누",
+                "category_code": 266102110,
+                "count": 954
+              },
+              {
+                "category_name": "입욕제, 소금",
+                "category_code": 266102111,
+                "count": 409
+              },
+              {
+                "category_name": "바디케어세트",
+                "category_code": 266102112,
+                "count": 804
+              }
+            ],
+            "count": 7048
+          },
+          {
+            "category_name": "헤어케어",
+            "category_code": 266104100,
+            "category3": [
+              {
+                "category_name": "샴푸",
+                "category_code": 266104101,
+                "count": 1466
+              },
+              {
+                "category_name": "린스, 컨디셔너",
+                "category_code": 266104102,
+                "count": 246
+              },
+              {
+                "category_name": "탈모케어",
+                "category_code": 266104108,
+                "count": 221
+              },
+              {
+                "category_name": "트리트먼트, 헤어팩",
+                "category_code": 266104103,
+                "count": 802
+              },
+              {
+                "category_name": "헤어에센스, 헤어오일",
+                "category_code": 266104104,
+                "count": 379
+              },
+              {
+                "category_name": "헤어미스트",
+                "category_code": 266104105,
+                "count": 167
+              },
+              {
+                "category_name": "헤어케어세트",
+                "category_code": 266104106,
+                "count": 558
+              }
+            ],
+            "count": 3905
+          },
+          {
+            "category_name": "메이크업",
+            "category_code": 266105100,
+            "category3": [
+              {
+                "category_name": "베이스, 프라이머",
+                "category_code": 266105102,
+                "count": 243
+              },
+              {
+                "category_name": "컨실러",
+                "category_code": 266105103,
+                "count": 140
+              },
+              {
+                "category_name": "하이라이터",
+                "category_code": 266105104,
+                "count": 69
+              },
+              {
+                "category_name": "블러셔",
+                "category_code": 266105105,
+                "count": 231
+              },
+              {
+                "category_name": "파우더, 파우더팩트",
+                "category_code": 266105106,
+                "count": 125
+              },
+              {
+                "category_name": "립스틱, 립틴트",
+                "category_code": 266105107,
+                "count": 1347
+              },
+              {
+                "category_name": "아이섀도우",
+                "category_code": 266105109,
+                "count": 508
+              },
+              {
+                "category_name": "아이라이너, 마스카라",
+                "category_code": 266105110,
+                "count": 750
+              },
+              {
+                "category_name": "메이크업도구",
+                "category_code": 266105111,
+                "count": 949
+              },
+              {
+                "category_name": "메이크업세트",
+                "category_code": 266105112,
+                "count": 220
+              },
+              {
+                "category_name": "쿠션, 팩트",
+                "category_code": 266105113,
+                "count": 587
+              },
+              {
+                "category_name": "파운데이션, BB, CC",
+                "category_code": 266105101,
+                "count": 374
+              }
+            ],
+            "count": 5693
+          },
+          {
+            "category_name": "네일, 디자인타투",
+            "category_code": 266106100,
+            "category3": [
+              {
+                "category_name": "네일, 패디",
+                "category_code": 266106101,
+                "count": 1450
+              },
+              {
+                "category_name": "네일기기, 도구",
+                "category_code": 266106102,
+                "count": 76
+              },
+              {
+                "category_name": "타투",
+                "category_code": 266106103,
+                "count": 1367
+              }
+            ],
+            "count": 2915
+          },
+          {
+            "category_name": "향수",
+            "category_code": 266107100,
+            "category3": [
+              {
+                "category_name": "남성향수",
+                "category_code": 266107102,
+                "count": 1258
+              },
+              {
+                "category_name": "니치향수",
+                "category_code": 266107103,
+                "count": 332
+              },
+              {
+                "category_name": "여성향수",
+                "category_code": 266107101,
+                "count": 1935
+              }
+            ],
+            "count": 3631
+          },
+          {
+            "category_name": "여성용품",
+            "category_code": 266108100,
+            "category3": [
+              {
+                "category_name": "생리대",
+                "category_code": 266108101,
+                "count": 685
+              },
+              {
+                "category_name": "생리컵, 탐폰",
+                "category_code": 266108102,
+                "count": 41
+              },
+              {
+                "category_name": "청결제",
+                "category_code": 266108104,
+                "count": 195
+              },
+              {
+                "category_name": "건강의료용품",
+                "category_code": 266108103,
+                "count": 197
+              }
+            ],
+            "count": 1123
+          },
+          {
+            "category_name": "뷰티기기, 마스크",
+            "category_code": 266113100,
+            "category3": [
+              {
+                "category_name": "화장솜, 면봉",
+                "category_code": 266113105,
+                "count": 130
+              },
+              {
+                "category_name": "기타뷰티소품",
+                "category_code": 266113106,
+                "count": 1440
+              },
+              {
+                "category_name": "스킨케어기기",
+                "category_code": 266113101,
+                "count": 761
+              },
+              {
+                "category_name": "바디케어기기",
+                "category_code": 266113102,
+                "count": 438
+              },
+              {
+                "category_name": "건강마스크",
+                "category_code": 266113104,
+                "count": 1228
+              }
+            ],
+            "count": 4107
+          },
+          {
+            "category_name": "남성뷰티",
+            "category_code": 266110100,
+            "category3": [
+              {
+                "category_name": "스킨케어",
+                "category_code": 266110101,
+                "count": 712
+              },
+              {
+                "category_name": "면도제품",
+                "category_code": 266110102,
+                "count": 590
+              },
+              {
+                "category_name": "클렌저",
+                "category_code": 266110103,
+                "count": 88
+              },
+              {
+                "category_name": "맨바디, 헤어케어",
+                "category_code": 266110104,
+                "count": 491
+              }
+            ],
+            "count": 1932
+          },
+          {
+            "category_name": "스킨타입",
+            "category_code": 266109100,
+            "category3": [
+              {
+                "category_name": "건조",
+                "category_code": 266109101,
+                "count": 2465
+              },
+              {
+                "category_name": "민감성",
+                "category_code": 266109102,
+                "count": 1981
+              },
+              {
+                "category_name": "지성, 트러블",
+                "category_code": 266109103,
+                "count": 1676
+              },
+              {
+                "category_name": "손상",
+                "category_code": 266109104,
+                "count": 1445
+              }
+            ],
+            "count": 7572
+          },
+          {
+            "category_name": "이너뷰티",
+            "category_code": 266112100,
+            "category3": [
+              {
+                "category_name": "가벼운간식",
+                "category_code": 266112101,
+                "count": 877
+              },
+              {
+                "category_name": "면역력 증진",
+                "category_code": 266112106,
+                "count": 792
+              },
+              {
+                "category_name": "철저한 식단관리",
+                "category_code": 266112102,
+                "count": 1206
+              },
+              {
+                "category_name": "튼튼함을 위한 식품",
+                "category_code": 266112103,
+                "count": 1903
+              }
+            ],
+            "count": 4810
+          }
+        ],
+        "count": 78149
+      }
+    }
+  ]
+}
